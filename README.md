@@ -15,12 +15,12 @@ I will select the most suitable tools, and test them for different document reso
 With the conclusion of my impressions of the existing tools, I will build my own model and test it with various inputs and criteria. With the results of the testing, I will make my conclusion and provide suggestions for solving the original problem of information extraction.
 
 In summary, my tasks will look as follows:
-● Creating document datasets of different sizes, topics, and structure for testing.
-● Finding and getting to know several ML tools for information extraction.
-● Determining the advantages and disadvantages of each tool.
-● Building own model with the gathered information.
-● Configuring and feeding the model with the datasets.
-● Testing the information extraction accuracy of the tools.
-● Writing recommendations for choosing the right tool for a given application.
+- Creating document datasets of different sizes, topics, and structure for testing.
+- Finding and getting to know several ML tools for information extraction.
+- Determining the advantages and disadvantages of each tool.
+- Building own model with the gathered information.
+- Configuring and feeding the model with the datasets.
+- Testing the information extraction accuracy of the tools.
+- Writing recommendations for choosing the right tool for a given application.
 
 The given application of the tested tools will be, to search and analyse Technical Documentations.
